@@ -1,5 +1,7 @@
 # 🎉 tradingview-mcp - Fast and Easy TradingView Snapshots
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/viney-123-tradingview-mcp)
+
 ## 🚀 Getting Started
 
 Welcome to the tradingview-mcp project! This application allows you to fetch TradingView chart snapshots quickly and securely using Python. Whether you're tracking market data or visualizing strategies, this tool is designed for you.
